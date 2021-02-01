@@ -22,7 +22,7 @@ function Navbar() {
       />
       <img
         className="nav_avatar"
-        src="https://www.flaticon.com/svg/vstatic/svg/727/727399.svg?token=exp=1611996397~hmac=976468c933f9590d4369b3e9c2c51f21"
+        src="https://i.pinimg.com/originals/0d/dc/ca/0ddccae723d85a703b798a5e682c23c1.png"
         alt="Avatar"
       />
     </div>
